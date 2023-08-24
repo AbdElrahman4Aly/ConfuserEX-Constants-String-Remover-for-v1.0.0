@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConfuserEX Constants [ String Remover ].exe.config
+C:\Users\ADMIN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConfuserEX Constants [ String Remover ].exe
+C:\Users\ADMIN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConfuserEX Constants [ String Remover ].pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\dnlib.dll
+C:\Users\ADMIN\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\dnlib.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConfuserEX Constants [ String Remover ].csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConfuserEX Constants [ String Remover ].csproj.CopyComplete
+C:\Users\ADMIN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConfuserEX Constants [ String Remover ].exe
+C:\Users\ADMIN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConfuserEX Constants [ String Remover ].pdb
+C:\Users\ADMIN\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConfuserEX Constants [ String Remover ].csprojAssemblyReference.cache
